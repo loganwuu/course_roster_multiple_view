@@ -2,7 +2,7 @@
 
 ##### A website that allows users to create a course roster and add students to each course. (9/22/15)
 
-#### By Logan Wu & Chris Swan
+#### By Logan Wu & Filipe Silvestre
 
 ## Description
 An app that allows you to add classes and add students to classes.
@@ -21,7 +21,7 @@ HTML, CSS, Bootstrap, JavaScript, AngularJS
 
 ### Legal
 
-Copyright (c) 2015 **Logan Wu & Chris Swan**
+Copyright (c) 2015 **Logan Wu & Filipe Silvestre**
 
 This software is licensed under the MIT license.
 
