@@ -5,7 +5,7 @@
 #### By Logan Wu & Filipe Silvestre
 
 ## Description
-An app that allows you to add classes and add students to classes.
+An app that allows you to add classes and add students to classes. The ```home``` page link is now constantky showing on each views for added convenience to toggle between them.
 
 ## Setup
 
